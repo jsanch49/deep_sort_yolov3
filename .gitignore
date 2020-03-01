@@ -1,0 +1,4 @@
+model_data/yolo.h5
+__pycache__
+detection.txt
+output.avi
